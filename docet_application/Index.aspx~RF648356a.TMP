@@ -1,0 +1,111 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="docet_application.WebForm1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Docet File</title>
+    <link href="css/Style.css" rel="stylesheet" />
+    <script type="text/javascript">
+        function validatePolicy() {
+            var policyNumber = document.getElementById('<%= Text1.ClientID %>').value;
+            if (policyNumber.match(/[0-9]/g) && policyNumber.includes("-")) {
+                if (policyNumber.length == 11 || policyNumber.length == 13) {
+                    return true;
+                } else {
+                    alert("Policy Number Error. Please Check Policy Number Length.");
+                    return false;
+                }
+            } else {
+                alert("Invalid Policy Number! Please Input Currect Policy Number.");
+                return false;
+            }
+        }
+    </script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="header">
+            <asp:Image ID="imglogo" runat="server" ImageUrl="~/img/RliBanner.png" Height="45px" Width="150px" />
+            <div class="item">
+                <h4>Docet PDF File </h4>
+            <div class="dropdown">
+                <select id="select_project" runat="server" class="form-control" style="height:25px;width:150px;padding:5px;background-color:#f8f7f6;">
+                    <option value="" Selected="True|False">Select Project</option>
+                    <option value="Ekok">Ekok Bima</option>
+                    <option value="Islami">Islami Bima</option>
+                    <option value="Samajic">Samajic Bima</option>
+                    <option value="Khudro">Khudro Bima</option>
+                    <option value="Soria">Soria DPS Bima</option>
+                    <option value="Rupali">Rupali Sonchoy Bima</option>
+                    <option value="Alamanat">Al-Amanat Bima</option>
+                </select>
+            </div>
+            </div>
+            <asp:Label ID="text" runat="server" Text="Policy No:"></asp:Label>
+            <asp:TextBox ID="Text1" runat="server" Height="25px" Width="130px" CssClass="policy-input" onblur="validatePolicy()"></asp:TextBox>
+            <br />
+            <asp:Button ID="Policy_Search" runat="server" Text="Search" Width="100px" Height="25px" OnClick="Policy_Search_Click" />
+        </div>
+        <section class="containar">
+            <div class="box-2">
+                <div id="pdfimg">
+                    <iframe runat="server" id="iframepdf" height="590px" width="100%" src=""></iframe>
+                </div>
+            </div>
+        </section>
+        <div class="footer">
+            <footer>
+                <h5>&copy; Developed by Md. Hafiz</h5>
+            </footer>
+        </div>
+    </form>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+<%--<body runat="server">
+    <div class="header">
+        <img id="imglogo" />
+        <div class="item">
+            <h4>Docet PDF File</h4>
+            <div class="dropdown">
+                <select id="select_project" runat="server" class="form-control" style="height:25px;width:150px;padding:5px;background-color:#f8f7f6;">
+                    <option value="" Selected="True|False">Select Project</option>
+                    <option value="Ekok">Ekok Bima</option>
+                    <option value="Islami">Islami Bima</option>
+                    <option value="Samajic">Samajic Bima</option>
+                    <option value="Khudro">Khudro Bima</option>
+                    <option value="Soria">Soria DPS Bima</option>
+                    <option value="Rupali">Rupali Sonchoy Bima</option>
+                    <option value="Alamanat">Al-Amanat Bima</option>
+                </select>
+            </div>
+        </div>
+        <label for="text" runat="server">Policy No:</label>
+        <input id="Text1" runat="server" type="text" class="policy-input" style="height:25px;width:130px;" onblur="validatePolicy()" />
+        <br />
+        <button id="Policy_Search" runat="server" class="btn btn-primary" OnClick="Policy_Search_Click" style="width:100px;height:25px;">Search</button>
+    </div>
+    <section class="containar">
+        <div class="box-2">
+            <div id="pdfimg">
+                <iframe id="iframepdf" runat="server" height="590px" width="100%" src="">
+                </iframe>
+            </div>
+        </div>
+    </section>
+    <div class="footer">
+        <footer>
+            <h5>&copy; Developed by Md. Hafiz</h5>
+        </footer>
+    </div>
+</body>
+</html>--%>

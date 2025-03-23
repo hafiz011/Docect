@@ -1,0 +1,655 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Hafiz\Documents\docet</_PublishTargetUrl>
+    <History>True|2024-02-27T15:57:05.7517566Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/docet_application.dll">
+      <publishTime>02/27/2024 21:56:57</publishTime>
+    </File>
+    <File Include="bin/docet_application.pdb">
+      <publishTime>02/27/2024 21:56:57</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/06/2018 06:10:50</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>05/28/2022 13:39:10</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/22/2019 15:06:16</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>08/08/2018 19:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>08/09/2018 02:18:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>08/09/2018 02:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>08/08/2018 19:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>08/09/2018 02:18:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>08/09/2018 02:09:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>08/08/2018 19:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>08/08/2018 19:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>08/08/2018 19:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>08/08/2018 19:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>08/08/2018 19:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>08/08/2018 19:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>08/09/2018 02:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>12/05/2017 23:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>12/05/2017 23:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>08/09/2018 02:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>08/09/2018 02:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>11/06/2016 08:55:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>11/06/2016 08:55:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/16/2018 17:29:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>11/06/2016 08:55:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>11/06/2016 08:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>11/06/2016 08:55:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>11/06/2016 08:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Globalization.Calendars.dll">
+      <publishTime>11/06/2016 08:56:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>11/06/2016 08:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.ZipFile.dll">
+      <publishTime>11/06/2016 08:56:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>11/06/2016 08:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>11/06/2016 08:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Http.dll">
+      <publishTime>11/06/2016 08:56:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Sockets.dll">
+      <publishTime>11/06/2016 08:56:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/16/2018 17:29:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>11/06/2016 08:57:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>11/06/2016 08:57:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>11/06/2016 08:57:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>11/06/2016 08:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>11/06/2016 08:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>11/06/2016 08:57:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
+      <publishTime>11/06/2016 08:57:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>11/06/2016 08:57:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>11/06/2016 08:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>11/06/2016 08:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>11/06/2016 08:57:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>11/06/2016 08:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>08/08/2018 19:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>08/09/2018 02:18:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>08/09/2018 02:09:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>08/08/2018 19:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>08/09/2018 02:18:16</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>05/28/2022 13:41:34</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>05/28/2022 13:41:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>05/28/2022 13:41:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>05/28/2022 13:41:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>05/28/2022 13:42:20</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>05/28/2022 13:42:06</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>05/28/2022 13:42:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>05/28/2022 13:42:16</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>05/28/2022 13:42:50</publishTime>
+    </File>
+    <File Include="css/Style.css">
+      <publishTime>02/19/2024 13:01:56</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103252888-0.pdf">
+      <publishTime>02/05/2024 10:54:33</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103252889-9.pdf">
+      <publishTime>02/05/2024 10:54:33</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103255808-0.pdf">
+      <publishTime>02/05/2024 10:59:16</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103255813-3.pdf">
+      <publishTime>02/05/2024 10:59:16</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103255817-9.pdf">
+      <publishTime>02/05/2024 10:59:16</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103255832-0.pdf">
+      <publishTime>02/05/2024 10:59:16</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103255836-6.pdf">
+      <publishTime>02/05/2024 10:59:16</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103255837-5.pdf">
+      <publishTime>02/05/2024 10:59:16</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103255841-9.pdf">
+      <publishTime>02/05/2024 10:59:16</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103255843-7.pdf">
+      <publishTime>02/05/2024 10:59:16</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103255844-6.pdf">
+      <publishTime>02/05/2024 10:59:16</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103255851-7.pdf">
+      <publishTime>02/05/2024 10:59:16</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103255869-7.pdf">
+      <publishTime>02/05/2024 10:59:16</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103255881-1.pdf">
+      <publishTime>02/05/2024 10:59:16</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103255882-0.pdf">
+      <publishTime>02/05/2024 10:59:16</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103255883-9.pdf">
+      <publishTime>02/05/2024 10:59:16</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103255886-6.pdf">
+      <publishTime>02/05/2024 10:59:16</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103255889-3.pdf">
+      <publishTime>02/05/2024 10:59:16</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103255903-4.pdf">
+      <publishTime>02/05/2024 10:59:16</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103255904-3.pdf">
+      <publishTime>02/05/2024 10:59:16</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103256002-2.pdf">
+      <publishTime>02/05/2024 10:59:16</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103256011-1.pdf">
+      <publishTime>02/05/2024 10:59:16</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103256012-0.pdf">
+      <publishTime>02/05/2024 10:59:16</publishTime>
+    </File>
+    <File Include="Docet/Alamanat_Folder/103256013-9.pdf">
+      <publishTime>02/05/2024 10:59:16</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103252873-7.pdf">
+      <publishTime>02/05/2024 10:54:33</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103254853-7.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103254854-6.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103254855-5.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103254861-7.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103254867-1.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103254868-0.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103254869-9.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103254870-6.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103254871-5.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103254889-5.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103254908-1.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103254912-5.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103254917-0.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103254927-8.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103254928-7.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103254933-0.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103254934-9.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103254936-7.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103254966-1.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103255008-8.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103255017-7.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103255018-6.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103255026-6.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Ekok_Folder/103255033-7.pdf">
+      <publishTime>02/05/2024 10:59:02</publishTime>
+    </File>
+    <File Include="Docet/Islami_Folder/208056137-7.pdf">
+      <publishTime>02/05/2024 10:56:11</publishTime>
+    </File>
+    <File Include="Docet/Islami_Folder/208059201-2.pdf">
+      <publishTime>02/05/2024 10:56:11</publishTime>
+    </File>
+    <File Include="Docet/Islami_Folder/208059202-1.pdf">
+      <publishTime>02/05/2024 10:56:11</publishTime>
+    </File>
+    <File Include="Docet/Islami_Folder/208059203-0.pdf">
+      <publishTime>02/05/2024 10:56:11</publishTime>
+    </File>
+    <File Include="Docet/Islami_Folder/208059204-9.pdf">
+      <publishTime>02/05/2024 10:56:11</publishTime>
+    </File>
+    <File Include="Docet/Islami_Folder/208059205-8.pdf">
+      <publishTime>02/05/2024 10:56:11</publishTime>
+    </File>
+    <File Include="Docet/Islami_Folder/208059206-7.pdf">
+      <publishTime>02/05/2024 10:56:11</publishTime>
+    </File>
+    <File Include="Docet/Islami_Folder/208059207-6.pdf">
+      <publishTime>02/05/2024 10:56:11</publishTime>
+    </File>
+    <File Include="Docet/Islami_Folder/208059208-5.pdf">
+      <publishTime>02/05/2024 10:56:11</publishTime>
+    </File>
+    <File Include="Docet/Islami_Folder/208059209-4.pdf">
+      <publishTime>02/05/2024 10:56:11</publishTime>
+    </File>
+    <File Include="Docet/Islami_Folder/208059210-1.pdf">
+      <publishTime>02/05/2024 10:56:11</publishTime>
+    </File>
+    <File Include="Docet/Islami_Folder/208059211-0.pdf">
+      <publishTime>02/05/2024 10:56:11</publishTime>
+    </File>
+    <File Include="Docet/Islami_Folder/208059212-9.pdf">
+      <publishTime>02/05/2024 10:56:11</publishTime>
+    </File>
+    <File Include="Docet/Islami_Folder/208059213-8.pdf">
+      <publishTime>02/05/2024 10:56:11</publishTime>
+    </File>
+    <File Include="Docet/Islami_Folder/208059214-7.pdf">
+      <publishTime>02/05/2024 10:56:11</publishTime>
+    </File>
+    <File Include="Docet/Islami_Folder/208059215-6.pdf">
+      <publishTime>02/05/2024 10:56:11</publishTime>
+    </File>
+    <File Include="Docet/Islami_Folder/208059216-5.pdf">
+      <publishTime>02/05/2024 10:56:11</publishTime>
+    </File>
+    <File Include="Docet/Islami_Folder/208059217-4.pdf">
+      <publishTime>02/05/2024 10:56:11</publishTime>
+    </File>
+    <File Include="Docet/Islami_Folder/208059218-3.pdf">
+      <publishTime>02/05/2024 10:56:11</publishTime>
+    </File>
+    <File Include="Docet/Islami_Folder/208059219-2.pdf">
+      <publishTime>02/05/2024 10:56:11</publishTime>
+    </File>
+    <File Include="Docet/Islami_Folder/208059220-9.pdf">
+      <publishTime>02/05/2024 10:56:11</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252873-7.pdf">
+      <publishTime>02/05/2024 10:57:09</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252881-7.pdf">
+      <publishTime>02/05/2024 10:57:09</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252885-3.pdf">
+      <publishTime>02/05/2024 10:57:09</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252888-0.pdf">
+      <publishTime>02/05/2024 10:57:09</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252889-9.pdf">
+      <publishTime>02/05/2024 10:57:09</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252893-3.pdf">
+      <publishTime>02/05/2024 10:57:09</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252897-9.pdf">
+      <publishTime>02/05/2024 10:57:08</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252899-7.pdf">
+      <publishTime>02/05/2024 10:57:08</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252900-3.pdf">
+      <publishTime>02/05/2024 10:57:08</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252912-9.pdf">
+      <publishTime>02/05/2024 10:57:08</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252914-7.pdf">
+      <publishTime>02/05/2024 10:57:08</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252915-6.pdf">
+      <publishTime>02/05/2024 10:57:08</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252922-7.pdf">
+      <publishTime>02/05/2024 10:57:08</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252925-4.pdf">
+      <publishTime>02/05/2024 10:57:08</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252926-3.pdf">
+      <publishTime>02/05/2024 10:57:08</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252931-6.pdf">
+      <publishTime>02/05/2024 10:57:08</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252932-5.pdf">
+      <publishTime>02/05/2024 10:57:09</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252933-4.pdf">
+      <publishTime>02/05/2024 10:57:09</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252939-8.pdf">
+      <publishTime>02/05/2024 10:57:09</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252948-7.pdf">
+      <publishTime>02/05/2024 10:57:09</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252955-8.pdf">
+      <publishTime>02/05/2024 10:57:09</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252956-7.pdf">
+      <publishTime>02/05/2024 10:57:09</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252958-5.pdf">
+      <publishTime>02/05/2024 10:57:09</publishTime>
+    </File>
+    <File Include="Docet/Khudro_Folder/103252961-0.pdf">
+      <publishTime>02/05/2024 10:57:09</publishTime>
+    </File>
+    <File Include="Docet/Rupali_Folder/103253065-3.pdf">
+      <publishTime>02/05/2024 10:54:33</publishTime>
+    </File>
+    <File Include="Docet/Rupali_Folder/103254277-5.pdf">
+      <publishTime>02/05/2024 10:58:24</publishTime>
+    </File>
+    <File Include="Docet/Rupali_Folder/103254279-3.pdf">
+      <publishTime>02/05/2024 10:58:24</publishTime>
+    </File>
+    <File Include="Docet/Rupali_Folder/103254281-9.pdf">
+      <publishTime>02/05/2024 10:58:24</publishTime>
+    </File>
+    <File Include="Docet/Rupali_Folder/103254303-2.pdf">
+      <publishTime>02/05/2024 10:58:24</publishTime>
+    </File>
+    <File Include="Docet/Rupali_Folder/103254304-1.pdf">
+      <publishTime>02/05/2024 10:58:24</publishTime>
+    </File>
+    <File Include="Docet/Rupali_Folder/103254305-0.pdf">
+      <publishTime>02/05/2024 10:58:24</publishTime>
+    </File>
+    <File Include="Docet/Rupali_Folder/103254325-6.pdf">
+      <publishTime>02/05/2024 10:58:24</publishTime>
+    </File>
+    <File Include="Docet/Rupali_Folder/103254327-4.pdf">
+      <publishTime>02/05/2024 10:58:24</publishTime>
+    </File>
+    <File Include="Docet/Rupali_Folder/103254328-3.pdf">
+      <publishTime>02/05/2024 10:58:24</publishTime>
+    </File>
+    <File Include="Docet/Rupali_Folder/103254329-2.pdf">
+      <publishTime>02/05/2024 10:58:24</publishTime>
+    </File>
+    <File Include="Docet/Rupali_Folder/103254338-1.pdf">
+      <publishTime>02/05/2024 10:58:24</publishTime>
+    </File>
+    <File Include="Docet/Rupali_Folder/103254341-6.pdf">
+      <publishTime>02/05/2024 10:58:24</publishTime>
+    </File>
+    <File Include="Docet/Rupali_Folder/103254349-8.pdf">
+      <publishTime>02/05/2024 10:58:24</publishTime>
+    </File>
+    <File Include="Docet/Rupali_Folder/103254351-4.pdf">
+      <publishTime>02/05/2024 10:58:24</publishTime>
+    </File>
+    <File Include="Docet/Rupali_Folder/103254355-0.pdf">
+      <publishTime>02/05/2024 10:58:24</publishTime>
+    </File>
+    <File Include="Docet/Rupali_Folder/103254370-1.pdf">
+      <publishTime>02/05/2024 10:58:24</publishTime>
+    </File>
+    <File Include="Docet/Samajic_Folder/103253056-4.pdf">
+      <publishTime>02/05/2024 10:57:31</publishTime>
+    </File>
+    <File Include="Docet/Samajic_Folder/103253062-6.pdf">
+      <publishTime>02/05/2024 10:57:31</publishTime>
+    </File>
+    <File Include="Docet/Samajic_Folder/103253065-3.pdf">
+      <publishTime>02/05/2024 10:57:31</publishTime>
+    </File>
+    <File Include="Docet/Samajic_Folder/103253067-1.pdf">
+      <publishTime>02/05/2024 10:57:31</publishTime>
+    </File>
+    <File Include="Docet/Samajic_Folder/103253068-0.pdf">
+      <publishTime>02/05/2024 10:57:31</publishTime>
+    </File>
+    <File Include="Docet/Samajic_Folder/103253076-0.pdf">
+      <publishTime>02/05/2024 10:57:31</publishTime>
+    </File>
+    <File Include="Docet/Samajic_Folder/103253129-6.pdf">
+      <publishTime>02/05/2024 10:54:33</publishTime>
+    </File>
+    <File Include="Docet/Samajic_Folder/103253134-9.pdf">
+      <publishTime>02/05/2024 10:57:37</publishTime>
+    </File>
+    <File Include="Docet/Samajic_Folder/103253138-5.pdf">
+      <publishTime>02/05/2024 10:57:37</publishTime>
+    </File>
+    <File Include="Docet/Samajic_Folder/103253148-3.pdf">
+      <publishTime>02/05/2024 10:57:37</publishTime>
+    </File>
+    <File Include="Docet/Samajic_Folder/103253155-4.pdf">
+      <publishTime>02/05/2024 10:57:37</publishTime>
+    </File>
+    <File Include="Docet/Samajic_Folder/103253156-3.pdf">
+      <publishTime>02/05/2024 10:57:37</publishTime>
+    </File>
+    <File Include="Docet/Samajic_Folder/103253167-0.pdf">
+      <publishTime>02/05/2024 10:57:37</publishTime>
+    </File>
+    <File Include="Docet/Samajic_Folder/103253174-1.pdf">
+      <publishTime>02/05/2024 10:57:37</publishTime>
+    </File>
+    <File Include="Docet/Samajic_Folder/103253177-8.pdf">
+      <publishTime>02/05/2024 10:57:37</publishTime>
+    </File>
+    <File Include="Docet/Samajic_Folder/103253185-8.pdf">
+      <publishTime>02/05/2024 10:57:37</publishTime>
+    </File>
+    <File Include="Docet/Soria_Folder/103253304-3.pdf">
+      <publishTime>02/05/2024 10:54:33</publishTime>
+    </File>
+    <File Include="Docet/Soria_Folder/103253868-2.pdf">
+      <publishTime>02/05/2024 10:58:03</publishTime>
+    </File>
+    <File Include="Docet/Soria_Folder/103253869-1.pdf">
+      <publishTime>02/05/2024 10:58:03</publishTime>
+    </File>
+    <File Include="Docet/Soria_Folder/103253881-5.pdf">
+      <publishTime>02/05/2024 10:58:03</publishTime>
+    </File>
+    <File Include="Docet/Soria_Folder/103253883-3.pdf">
+      <publishTime>02/05/2024 10:58:03</publishTime>
+    </File>
+    <File Include="Docet/Soria_Folder/103253887-9.pdf">
+      <publishTime>02/05/2024 10:58:03</publishTime>
+    </File>
+    <File Include="Docet/Soria_Folder/103253895-9.pdf">
+      <publishTime>02/05/2024 10:58:03</publishTime>
+    </File>
+    <File Include="Docet/Soria_Folder/103253896-8.pdf">
+      <publishTime>02/05/2024 10:58:03</publishTime>
+    </File>
+    <File Include="Docet/Soria_Folder/103253906-5.pdf">
+      <publishTime>02/05/2024 10:58:03</publishTime>
+    </File>
+    <File Include="Docet/Soria_Folder/103253921-6.pdf">
+      <publishTime>02/05/2024 10:58:03</publishTime>
+    </File>
+    <File Include="Docet/Soria_Folder/103253927-0.pdf">
+      <publishTime>02/05/2024 10:58:03</publishTime>
+    </File>
+    <File Include="Docet/Soria_Folder/103253928-9.pdf">
+      <publishTime>02/05/2024 10:58:03</publishTime>
+    </File>
+    <File Include="Docet/Soria_Folder/103253929-8.pdf">
+      <publishTime>02/05/2024 10:58:03</publishTime>
+    </File>
+    <File Include="Docet/Soria_Folder/103253931-4.pdf">
+      <publishTime>02/05/2024 10:58:03</publishTime>
+    </File>
+    <File Include="Docet/Soria_Folder/103253934-1.pdf">
+      <publishTime>02/05/2024 10:58:03</publishTime>
+    </File>
+    <File Include="Docet/Soria_Folder/103253935-0.pdf">
+      <publishTime>02/05/2024 10:58:03</publishTime>
+    </File>
+    <File Include="Docet/Soria_Folder/103253944-9.pdf">
+      <publishTime>02/05/2024 10:58:03</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>01/30/2024 15:45:57</publishTime>
+    </File>
+    <File Include="img/image-1000x590.jpg">
+      <publishTime>02/11/2024 17:54:21</publishTime>
+    </File>
+    <File Include="img/RliBanner.png">
+      <publishTime>02/07/2024 10:55:51</publishTime>
+    </File>
+    <File Include="Index.aspx">
+      <publishTime>02/19/2024 13:01:58</publishTime>
+    </File>
+    <File Include="JavaScript/javascript.js">
+      <publishTime>02/05/2024 10:24:40</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/27/2024 21:56:59</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

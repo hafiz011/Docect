@@ -1,0 +1,294 @@
+D:\RLI-Dotect-app\docet_application\docet_application\bin\docet_application.dll.config
+D:\RLI-Dotect-app\docet_application\docet_application\bin\docet_application.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\docet_application.pdb
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\csc.exe
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\csc.exe.config
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\csc.rsp
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\csi.exe
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\csi.exe.config
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\csi.rsp
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.Managed.Core.targets
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.AppContext.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Collections.Immutable.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Console.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Globalization.Calendars.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.IO.Compression.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.IO.FileSystem.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Net.Http.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Net.Sockets.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Reflection.Metadata.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.ValueTuple.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Xml.XmlDocument.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Xml.XPath.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\vbc.exe
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\vbc.exe.config
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\vbc.rsp
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\VBCSCompiler.exe
+D:\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\VBCSCompiler.exe.config
+D:\RLI-Dotect-app\docet_application\docet_application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\Newtonsoft.Json.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\System.Net.Http.Formatting.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\System.Web.Http.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\System.Web.Http.WebHost.dll
+D:\RLI-Dotect-app\docet_application\docet_application\bin\Newtonsoft.Json.xml
+D:\RLI-Dotect-app\docet_application\docet_application\bin\System.Net.Http.Formatting.xml
+D:\RLI-Dotect-app\docet_application\docet_application\bin\System.Web.Http.xml
+D:\RLI-Dotect-app\docet_application\docet_application\bin\System.Web.Http.WebHost.xml
+D:\RLI-Dotect-app\docet_application\docet_application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\RLI-Dotect-app\docet_application\docet_application\obj\Debug\docet_application.csproj.AssemblyReference.cache
+D:\RLI-Dotect-app\docet_application\docet_application\obj\Debug\docet_application.csproj.CoreCompileInputs.cache
+D:\RLI-Dotect-app\docet_application\docet_application\obj\Debug\docet_application.csproj.CopyComplete
+D:\RLI-Dotect-app\docet_application\docet_application\obj\Debug\docet_application.dll
+D:\RLI-Dotect-app\docet_application\docet_application\obj\Debug\docet_application.pdb
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\docet_application.dll.config
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\docet_application.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\docet_application.pdb
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\csc.exe
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\csc.exe.config
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\csc.rsp
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\csi.exe
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\csi.exe.config
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\csi.rsp
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.Managed.Core.targets
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.AppContext.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Collections.Immutable.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Console.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Globalization.Calendars.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.IO.Compression.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.IO.FileSystem.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Net.Http.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Net.Sockets.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Reflection.Metadata.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.ValueTuple.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Xml.XmlDocument.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Xml.XPath.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\vbc.exe
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\vbc.exe.config
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\vbc.rsp
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\VBCSCompiler.exe
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\roslyn\VBCSCompiler.exe.config
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\Newtonsoft.Json.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\System.Net.Http.Formatting.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\System.Web.Http.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\System.Web.Http.WebHost.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\Newtonsoft.Json.xml
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\System.Net.Http.Formatting.xml
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\System.Web.Http.xml
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\System.Web.Http.WebHost.xml
+D:\update\RLI-Dotect-app\docet_application\docet_application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\update\RLI-Dotect-app\docet_application\docet_application\obj\Debug\docet_application.csproj.AssemblyReference.cache
+D:\update\RLI-Dotect-app\docet_application\docet_application\obj\Debug\docet_application.csproj.CoreCompileInputs.cache
+D:\update\RLI-Dotect-app\docet_application\docet_application\obj\Debug\docet_application.csproj.CopyComplete
+D:\update\RLI-Dotect-app\docet_application\docet_application\obj\Debug\docet_application.dll
+D:\update\RLI-Dotect-app\docet_application\docet_application\obj\Debug\docet_application.pdb
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\docet_application.dll.config
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\docet_application.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\docet_application.pdb
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\csc.exe
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\csc.exe.config
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\csc.rsp
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\csi.exe
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\csi.exe.config
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\csi.rsp
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.AppContext.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.Console.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.IO.Compression.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.Net.Http.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.ValueTuple.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\vbc.exe
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\vbc.exe.config
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\vbc.rsp
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\Newtonsoft.Json.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\System.Net.Http.Formatting.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\System.Web.Http.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\System.Web.Http.WebHost.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\Newtonsoft.Json.xml
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\System.Net.Http.Formatting.xml
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\System.Web.Http.xml
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\System.Web.Http.WebHost.xml
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hafiz\Desktop\docet_application\docet_application\obj\Debug\docet_application.csproj.AssemblyReference.cache
+C:\Users\Hafiz\Desktop\docet_application\docet_application\obj\Debug\docet_application.csproj.CoreCompileInputs.cache
+C:\Users\Hafiz\Desktop\docet_application\docet_application\obj\Debug\docet_application.csproj.CopyComplete
+C:\Users\Hafiz\Desktop\docet_application\docet_application\obj\Debug\docet_application.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\obj\Debug\docet_application.pdb
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\System.Web.Helpers.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\System.Web.Mvc.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\System.Web.Razor.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\System.Web.WebPages.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\System.Web.Helpers.xml
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\System.Web.Mvc.xml
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\System.Web.Razor.xml
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\System.Web.WebPages.xml
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hafiz\Desktop\docet_application\docet_application\bin\System.Web.WebPages.Razor.xml
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\docet_application.dll.config
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\docet_application.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\docet_application.pdb
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\csc.exe
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\csc.exe.config
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\csc.rsp
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\csi.exe
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\csi.exe.config
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\csi.rsp
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.AppContext.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.Collections.Immutable.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.Console.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.Globalization.Calendars.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.IO.Compression.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.IO.FileSystem.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.Net.Http.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.Net.Sockets.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.Reflection.Metadata.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.ValueTuple.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.Xml.XPath.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\vbc.exe
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\vbc.exe.config
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\vbc.rsp
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\VBCSCompiler.exe
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\roslyn\VBCSCompiler.exe.config
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\Microsoft.Web.Infrastructure.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\Newtonsoft.Json.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\System.Net.Http.Formatting.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\System.Web.Helpers.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\System.Web.Http.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\System.Web.Http.WebHost.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\System.Web.Mvc.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\System.Web.Razor.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\System.Web.WebPages.Deployment.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\System.Web.WebPages.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\System.Web.WebPages.Razor.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\System.Web.Helpers.xml
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\System.Web.Mvc.xml
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\System.Web.Razor.xml
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\System.Web.WebPages.xml
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\System.Web.WebPages.Deployment.xml
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\System.Web.WebPages.Razor.xml
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\Newtonsoft.Json.xml
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\System.Net.Http.Formatting.xml
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\System.Web.Http.xml
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\System.Web.Http.WebHost.xml
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\obj\Debug\docet_application.csproj.AssemblyReference.cache
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\obj\Debug\docet_application.csproj.CoreCompileInputs.cache
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\obj\Debug\docet_application.csproj.CopyComplete
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\obj\Debug\docet_application.dll
+D:\Complete_Project\aspx docket app full\docet_application\docet_application\obj\Debug\docet_application.pdb
